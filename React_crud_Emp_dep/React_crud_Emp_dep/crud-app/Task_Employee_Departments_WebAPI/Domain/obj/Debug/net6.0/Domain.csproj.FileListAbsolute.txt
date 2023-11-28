@@ -1,0 +1,36 @@
+D:\Web Api\Solution1\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Web Api\Solution1\Domain\bin\Debug\net6.0\Domain.dll
+D:\Web Api\Solution1\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.dll
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Web Api\Solution1\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.dll
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.dll
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Web Api\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser148\Desktop\Task_Employee_Departments_WebAPI\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,74 @@
+/* DepartmentList.css */
+
+.employee-container {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .employee-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .employee-table th, .employee-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .employee-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .update-button, .delete-button, .insert-button {
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+  
+  .update-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  .delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+  }
+  
+  .insert-button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+  }
+  
+  .modal {
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .modal-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .close-button {
+    background-color: #ccc;
+  }
+  
+  .insert-button-container {
+    margin-bottom: 20px;
+  }
+  
